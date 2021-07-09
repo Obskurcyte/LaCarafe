@@ -1,0 +1,11 @@
+.buttonContainer {
+  background-color: #BF9F78;
+  font-family: Philosopher-Regular, sans-serif;
+  padding: 1% 5%;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  font-size: 36px;
+  cursor: pointer;
+  outline: inherit;
+}

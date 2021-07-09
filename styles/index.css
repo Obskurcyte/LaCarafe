@@ -1,0 +1,147 @@
+.container1 {
+  background-color: #BF9F78;
+  width: 100%;
+  padding: 3% 0;
+}
+
+.logoBlanc {
+  width: 100%;
+}
+
+.superContainer h2 {
+  font-size: 70px;
+}
+
+#Vente {
+  margin-top: 5%;
+}
+
+.marginBottom {
+  margin-bottom: 5%;
+}
+.vinsContainer {
+  max-width: 60%;
+  align-items: center;
+  margin: 0 auto;
+  padding: 4% 0;
+}
+.vinsContainer p{
+  font-size: 36px;
+  font-family: Roboto-Thin, sans-serif;
+}
+
+.imgColin {
+  margin-bottom: 15%;
+  width: 50%;
+}
+.imgTrappet {
+  width: 35%;
+  margin: 0 auto;
+}
+.row1 {
+  margin-top: 4%;
+}
+.presents {
+  text-align: center;
+  font-family: Roboto-Regular,sans-serif!important;
+}
+
+.presentImg {
+  width: 50%;
+  margin: 0 auto;
+}
+.vinsContainer h2 {
+  margin-bottom: 5%;
+  text-align: center;
+}
+.vinsContainer span{
+  font-weight: bold;
+  font-size: 36px;
+  font-family: Roboto-Regular, sans-serif;
+}
+
+.imgContainer {
+  width: 10%;
+  margin: 0 auto;
+}
+
+.miniContainer {
+  text-align: center;
+}
+
+.links {
+  display: flex;
+  width: 30%;
+  margin-left: 8%;
+  justify-content: space-around;
+}
+
+.logoLinks {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.contact {
+  font-size: 18px;
+  color: white;
+}
+.copyright p {
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  font-family: Roboto-Thin, sans-serif;
+  margin-top: 3%;
+}
+
+#Vente2 {
+  margin-left: 33%;
+}
+footer {
+  background-color: #BF9F78;
+  padding: 2% 5%;
+}
+
+.footerContainer {
+  display: flex;
+}
+.contact p {
+  font-family: Roboto-Thin, sans-serif;
+}
+
+.dialogContainer {
+  text-align: center;
+  align-items: center;
+  padding: 5%;
+  width: 500px;
+  border-radius: 60px;
+}
+
+.codeParrainage {
+  margin-top: 5%;
+}
+.inputContainer input {
+  padding: 5%;
+  width: 80%;
+  margin: 1%;
+  border-radius: 20px;
+}
+
+.inputContainer input::placeholder {
+  text-align: center;
+}
+.MuiDialog-paper {
+  border-radius: 30px!important;
+  width: 80%;
+  align-items: center;
+}
+@media screen and (max-width: 1600px) {
+  .links {
+    margin-left: 12%;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .links {
+    margin-left: 17%;
+  }
+}
