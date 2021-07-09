@@ -1,6 +1,5 @@
 import React from 'react';
 import Head from 'next/head'
-import Image from 'next/image'
 import Button from "../components/Button";
 import Footer from "../components/Footer";
 import Dialog from '@material-ui/core/Dialog';
